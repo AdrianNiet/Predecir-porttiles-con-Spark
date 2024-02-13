@@ -14,7 +14,7 @@ En [Notebooks](https://github.com/AdrianNiet/Predecir-porttiles-con-Spark/tree/m
 
 Una vez visto la sintaxis, se realizó la limpieza de datos en [manipulation_df](https://github.com/AdrianNiet/Predecir-porttiles-con-Spark/blob/main/Notebooks/manipulation_df.ipynb), la creación del modelo se hizo en el notebook [modelo](https://github.com/AdrianNiet/Predecir-porttiles-con-Spark/blob/main/Notebooks/modelo.ipynb)
 
-Dentro de la carpeta **data** tenemos los datos sin manipular (raw) y en **processed* tenemos los datos de train y test cada uno en su carpeta.
+Dentro de la carpeta **data** tenemos los datos sin manipular (raw) y en **processed** tenemos los datos de train y test cada uno en su carpeta.
 
 # Errores encontrados.
 
