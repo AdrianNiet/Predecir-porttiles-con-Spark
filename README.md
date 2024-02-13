@@ -22,4 +22,4 @@ Primero, la creación de sesión en spark, esto tuvo complicaciones con un error
 
 Otro error importante fue a la hora de guardar la DF limpiada, ya que, al usar windows no encontraba el HADOOP, para solucionar esto, se accedio a la pagina oficial de HADOOP, se descargo el paquete y se añadio al PATH de forma manual.
 
-Por último, a la hora de guardar con spark siempre se generaban archivos basura, o, el archivo tenía otro nombre, para ello se utilizo la librería OS y cambiar el nombre justo despues de guardarlo.
+Por último, a la hora de guardar con spark siempre se generaban archivos basura, o, el archivo tenía otro nombre, para ello se utilizo la librería OS y cambiar el nombre justo despues de guardarlo, de esta forma queda listo para ser utilizado.
